@@ -1,0 +1,30 @@
+
+.tc{text-align:center;}
+
+
+.pz-btn-c{background-color:#ec5f1a !important;border:none !important;text-shadow:none !important;}
+
+.pz-txt666{color:#666;}
+.pz-txt{color:#000;}
+.pz-msg{color:#ec5f1a;font-weight:bold;}
+.pz-price{color:#ec5f1a;font-weight:bold;}
+.pz-price2{color:#ff0000;font-weight:bold;}
+
+.pz-userinfo{display:none;color:#666;}
+.pz-show{display:block;}
+
+.logincode{width:50px;height:50px;margin-left:5px;}
+.logincodebig{width:200px;height:200px;}
+
+.pz-warning {
+  background: #fff3a5;
+  padding: 0.5em 1em;
+  margin: 1em;
+  border-radius: 5px;
+}
+
+.pz-popup-win1{min-width:400px;}
+.pz-popup-win1 label{float:left !important;width:20% !important;}
+.pz-popup-win1 .ui-input-text{float:left !important;width:78% !important;}
+.ui-dialog-contain{background-color:#fff;}
+
